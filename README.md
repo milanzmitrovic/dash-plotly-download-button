@@ -4,9 +4,9 @@
 
 #### There is dash datatable component that is showing content of datasource
 
-### Option prices are on weekly level, starting from January 1st 2018 up to December 30th 2019
+##### Option prices are on weekly level, starting from January 1st 2018 up to December 30th 2019
 
-### There is dropdown component for choosing download format - csv or excel
+##### There is dropdown component for choosing download format - csv or excel
 
 ### There is button of from dash-bootstrap library 
 
