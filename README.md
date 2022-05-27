@@ -8,7 +8,7 @@
 
 ##### There is dropdown component for choosing download format - csv or excel
 
-### There is button of from dash-bootstrap library 
+- There is button of from dash-bootstrap library 
 
 
 ![alt text](https://github.com/milanzmitrovic/dash-plotly-download-button/blob/main/dash-download-button.png)
