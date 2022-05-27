@@ -39,7 +39,7 @@ app.layout = dbc.Container(
 
             dbc.Col([
 
-                html.Button("Download Data", id="dash_download_component_app-x-btn_csv"),
+                dbc.Button("Download Data", id="dash_download_component_app-x-btn_csv"),
 
                 ]),
 
